@@ -1,4 +1,4 @@
-## ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Welcome%20&height=300&fontSize=100&textBg=true)
+## ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Welcome%20&height=200&fontSize=100&textBg=true)
 
 <div align="center">
 
@@ -19,5 +19,5 @@
 
 <p>📧 Social  <br></p>
 
-<p> <a href="https://www.notion.so/data-explorer"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> </a> <a href="mailto:"hoseong0422@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> </a>hoseong0422@gmail.com </p>
+<p> <a href="https://www.notion.so/data-explorer"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> </a> `<a href="mailto:"hoseong0422@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> </a></p>`
 </div>
