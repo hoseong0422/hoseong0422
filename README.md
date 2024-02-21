@@ -3,7 +3,7 @@
 <div align="center">
 
 <p>
-안녕하세요 주니어 데이터 엔지니어 이호성입니다
+안녕하세요 데이터 엔지니어 이호성입니다
 </p>
 
 <p> 📚Skills </p>
@@ -13,13 +13,32 @@
 <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=Logstash&logoColor=white">
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white">
 <img src="https://img.shields.io/badge/kibana-005571?style=for-the-badge&logo=kibana&logoColor=white">
-<img src="https://img.shields.io/badge/googlebigquery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white">
-<img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
 <img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=for-the-badge&logo=Apache Airflow&logoColor=white">
 <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=Apache Kafka&logoColor=white">
+
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
-<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=GCP&logoColor=white">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AWS&logoColor=white"> </p>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/Fluent Bit-49BDA5?style=for-the-badge&logo=Fluent Bit&logoColor=white">
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&logoColor=white">
+<img src="https://img.shields.io/badge/Argo CD-EF7B4D?style=for-the-badge&logo=Argo&logoColor=white">
+<img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+</p>
+<p>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=Googlecloud&logoColor=white">
+
+<img src="https://img.shields.io/badge/googlecloudcomposer-4285F4?style=for-the-badge&logo=googlecloudcomposer&logoColor=white">
+<img src="https://img.shields.io/badge/googlebigquery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white">
+<img src="https://img.shields.io/badge/Looker Studio-4285F4?style=for-the-badge&logo=Looker&logoColor=white">
+<img src="https://img.shields.io/badge/GKE-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
+</p>
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+
+<img src="https://img.shields.io/badge/aws lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white">
+<img src="https://img.shields.io/badge/aws ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
+<img src="https://img.shields.io/badge/amazon ses-DD344C?style=for-the-badge&logo=amazonsimpleemailservice&logoColor=white">
+<img src="https://img.shields.io/badge/aws sns-FF9900?style=for-the-badge&logo=amazonesns&logoColor=white">
+ </p>
 
 <p>📧 Social  <br></p>
 
