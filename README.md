@@ -23,5 +23,5 @@
 
 <p>📧 Social  <br></p>
 
-<p> <a href="https://field-nerve-7fd.notion.site/Hoseong-Lee-156e7dcde3464980904343d6907ef661"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> </a> <a href="mailto:"hoseong0422@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> </a></p>
+<p> <a href="https://field-nerve-7fd.notion.site/Hoseong-Lee-156e7dcde3464980904343d6907ef661?pvs=25"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> </a> <a href="mailto:"hoseong0422@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> </a></p>
 </div>
