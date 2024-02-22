@@ -24,6 +24,7 @@
 <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&logoColor=white">
 <img src="https://img.shields.io/badge/Argo CD-EF7B4D?style=for-the-badge&logo=Argo&logoColor=white">
 <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+<img src="https://img.shields.io/badge/new relic-1CE783?style=for-the-badge&logo=new relic&logoColor=white">
 </p>
 <p>
 <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=Googlecloud&logoColor=white">
