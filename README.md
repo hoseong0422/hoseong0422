@@ -29,8 +29,8 @@
 <p>
 <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=Googlecloud&logoColor=white">
 
-<img src="https://img.shields.io/badge/googlecloudcomposer-4285F4?style=for-the-badge&logo=googlecloudcomposer&logoColor=white">
-<img src="https://img.shields.io/badge/googlebigquery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white">
+<img src="https://img.shields.io/badge/google cloud composer-4285F4?style=for-the-badge&logo=googlecloudcomposer&logoColor=white">
+<img src="https://img.shields.io/badge/google bigquery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white">
 <img src="https://img.shields.io/badge/Looker Studio-4285F4?style=for-the-badge&logo=Looker&logoColor=white">
 <img src="https://img.shields.io/badge/GKE-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
 </p>
