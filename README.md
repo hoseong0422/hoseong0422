@@ -15,16 +15,20 @@
 <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=Logstash&logoColor=white">
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white">
 <img src="https://img.shields.io/badge/kibana-005571?style=for-the-badge&logo=kibana&logoColor=white">
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache Airflow&logoColor=white">
-<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=Apache Kafka&logoColor=white">
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
+<img src="https://img.shields.io/badge/Vector-5A45FF?style=for-the-badge&logo=vector&logoColor=white">
+<img src="https://img.shields.io/badge/ksqlDB-231F20?style=for-the-badge&logo=ksqldb&logoColor=white">
+<img src="https://img.shields.io/badge/Kafka%20Connect-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
-<img src="https://img.shields.io/badge/FluentBit-#49BDA5?style=for-the-badge&logo=Fluent Bit&logoColor=white">
+<img src="https://img.shields.io/badge/Fluent%20Bit-49BDA5?style=for-the-badge&logo=fluentbit&logoColor=white">
 <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&logoColor=white">
+<img src="https://img.shields.io/badge/KEDA-326CE5?style=for-the-badge&logo=keda&logoColor=white">
 <img src="https://img.shields.io/badge/Argo CD-EF7B4D?style=for-the-badge&logo=Argo&logoColor=white">
 <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
-<img src="https://img.shields.io/badge/NewRelic-1CE783?style=for-the-badge&logo=New Relic&logoColor=white">
+<img src="https://img.shields.io/badge/New%20Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white">
 <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
 <img src="https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white">
@@ -39,7 +43,7 @@
 <img src="https://img.shields.io/badge/GKE-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
 </p>
 <p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 
 <img src="https://img.shields.io/badge/aws lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white">
 <img src="https://img.shields.io/badge/amazon ses-DD344C?style=for-the-badge&logo=amazonsimpleemailservice&logoColor=white">
